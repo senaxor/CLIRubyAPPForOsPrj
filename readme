@@ -1,0 +1,40 @@
+--read me -- 
+Vahid Ansari - 99101224 1401-2 OsPrj
+
+Simple C-scan algorithms : 
+
+this project is written with ruby programming language
+for executing on ubunto You should have Ruby installed on your systems 
+and then just run it on your systems : 
+
+
+just type --help to have commands
+
+here are some useful commands you can use :
+
+programm CLI is as shown below : 
+
+
+Hii
+user --help command for more info!!
+Enter your input
+--help
+commands are as shown below :
+ initialize --> for initializing variables
+ add -max --> to set max number of cylinders
+ add -current ---> to set index of current cylinder
+ add -past -- > to set index of current cylinder
+ set -direct ---> to initiate direction by past and current value of cylinder index
+ add -cylinders ---> to set cylinder indexes with most be read
+ clear -vari --> to clear all initiate values
+ start --> start program
+ show -max --> to show max value
+ show -current --> show current state of cylinder
+ show -past --> show past state of cylinder
+ show -direct --> to show direction
+ show -cylinders --> show cylinders states
+ show -all --> show all above variables
+ clear --> useful command for clearing page
+Enter your input
+
+
